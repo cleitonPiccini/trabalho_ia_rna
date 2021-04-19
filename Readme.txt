@@ -9,3 +9,5 @@ Necessário instalar as seguintes bibliotecas Python3:
 - matplotlib
 - seaborn
 - scikit-learn
+
+Durante a execução é necessário o fechamento dos gráficos para que ocorra a sequência da execução do código.
